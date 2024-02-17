@@ -15,7 +15,7 @@ version = match.group(1)
 
 # run setup
 setuptools.setup(
-    name='voxelmorph',
+    name='MambaMorph',
     version=version,
     license='Apache 2.0',
     description='Image Registration with Convolutional Networks',
