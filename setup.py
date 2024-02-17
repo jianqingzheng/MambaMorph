@@ -19,7 +19,7 @@ setuptools.setup(
     version=version,
     license='Apache 2.0',
     description='Image Registration with Convolutional Networks',
-    url='https://github.com/voxelmorph/voxelmorph',
+    url='https://github.com/jianqingzheng/MambaMorph',
     keywords=['deformation', 'registration', 'imaging', 'cnn', 'mri'],
     packages=setuptools.find_packages(),
     python_requires='>=3.6',
